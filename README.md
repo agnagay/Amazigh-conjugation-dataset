@@ -119,4 +119,4 @@ Contributions are welcome! Please adhere to the following guidelines:
 
 ### License
 
-This dataset is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This dataset is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
