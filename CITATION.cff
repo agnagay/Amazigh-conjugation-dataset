@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+  - family-names: [Ait Ouguengay]
+    given-names: [Youssef]
+    orcid: https://orcid.org/0000-0003-2956-6633
+title: "Moroccan tamazight verb conjugation dataset"
+version: 1.0.0
+date-released: 2026-02-09
+url: "https://github.com/agnagay/amazigh-conjugation-dataset"
+license: CC-BY-4.0
+repository-code: "https://github.com/agnagay/amazigh-conjugation-dataset"
+keywords:
+  - Tamazight
+  - Berber
+  - verb conjugation
+  - linguistics
+  - NLP
+  - language preservation
+type: dataset
