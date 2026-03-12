@@ -13,10 +13,10 @@ This README.md file provides essential information about the **Moroccan tamazigh
   - French
   - English
 - **Data Source**: 
-  - R. Laabdelaoui et al. "Manuel de conjugaison amazighe", 2012, IRCAM.
+  - R. Laabdelaoui et al. "[Manuel de conjugaison amazighe](https://biblio.ircam.ma/pmb/catalogue/index.php?lvl=notice_display&id=13163)", 2012, Institut Royal de la Culture Amazighe .
   - [IRCAM conjugator](https://tal2.ircam.ma/conjugueur/conjugappl.php).
-  - 
-
+  - [المعجم العربي الأمازيغي، محمد شفيق](https://archive.org/details/mujam-ar-amazigy-01/Mujam_Ar_Amazigy_01/)
+  
 ### JSON Structure
 
 Each verb entry in the dataset is structured as follows:
@@ -24,14 +24,18 @@ Each verb entry in the dataset is structured as follows:
 ```json
 {
     "lemma": "ⴰⴳⴳⵯⵊ",
-    "ar": "بعُد، ابتعد",
-    "fr": {
-        "fr1": "être loin, éloigné"
-    },
-    "en": {
-        "en1": "Be far away, far away"
-    },
     "ConjugationForm": "default",
+    "ao": {
+        "s1": {
+            "m": "ⴰⴳⴳⵯⵊⵖ",
+            "f": "ⴰⴳⴳⵯⵊⵖ"
+        },
+        "s2": {
+            "m": "ⵜⴰⴳⴳⵯⵊⴷ",
+            "f": "ⵜⴰⴳⴳⵯⵊⴷ"
+        },
+        // Additional singular and plural forms
+    }
     // Additional sections for various conjugations
 }
 ```
@@ -57,36 +61,17 @@ The dataset includes multiple conjugation forms categorized as follows:
 
 Each form includes singular (s) and plural (p) configurations for both masculine (m) and feminine (f) genders.
 
-#### Example of Conjugation Entry
-
-Here’s how a single verb's entries for the active form (`ao`) look:
-
-```json
-"ao": {
-    "s1": {
-        "m": "ⴰⴳⴳⵯⵊⵖ",
-        "f": "ⴰⴳⴳⵯⵊⵖ"
-    },
-    "s2": {
-        "m": "ⵜⴰⴳⴳⵯⵊⴷ",
-        "f": "ⵜⴰⴳⴳⵯⵊⴷ"
-    },
-    // Additional singular and plural forms
-}
-```
-
 ### Installation
 
 To download the dataset, clone this repository using the following command:
 
 ```bash
-git clone https://github.com/username/amz-verbs-conjugation.git
+git clone https://github.com/username/Amazigh-conjugation-dataset.git
 ```
-
 You can access the dataset in the `data` directory:
 
 ```bash
-cd amazigh-verbs-db/data
+cd Amazigh-conjugation-dataset/data
 ```
 
 ### Usage
