@@ -13,8 +13,8 @@ This README.md file provides essential information about the **Moroccan tamazigh
   - French
   - English
 - **Data Source**: 
-  - [Le Centre de l'aménagement linguistiqueL](https://biblio.ircam.ma/pmb/catalogue/index.php?lvl=author_see&id=3927), "[Manuel de conjugaison amazighe](https://biblio.ircam.ma/pmb/catalogue/index.php?lvl=notice_display&id=13163)", 2012, Institut Royal de la Culture Amazighe .
-  - [IRCAM conjugator](https://tal2.ircam.ma/conjugueur/conjugappl.php).
+  - [Le Centre de l'aménagement linguistiqueL](https://biblio.ircam.ma/pmb/catalogue/index.php?lvl=author_see&id=3927), "[Manuel de conjugaison amazighe](https://biblio.ircam.ma/pmb/catalogue/index.php?lvl=notice_display&id=13163)", 2012, [Institut Royal de la Culture Amazighe](https://www.ircam.ma)
+  - [IRCAM conjugator](https://tal2.ircam.ma/conjugueur/conjugappl.php)
   - [المعجم العربي الأمازيغي، محمد شفيق](https://archive.org/details/mujam-ar-amazigy-01/Mujam_Ar_Amazigy_01/)
   
 ### JSON Structure
