@@ -9,9 +9,6 @@ This README.md file provides essential information about the **Moroccan tamazigh
 - **File Format**: JSON
 - **Languages Included**:
   - Amazigh language (Tamazight)
-  - Arabic
-  - French
-  - English
 - **Data Sources**: 
   - [Le Centre de l'aménagement linguistiqueL](https://biblio.ircam.ma/pmb/catalogue/index.php?lvl=author_see&id=3927), "[Manuel de conjugaison amazighe](https://biblio.ircam.ma/pmb/catalogue/index.php?lvl=notice_display&id=13163)", 2012, [Institut Royal de la Culture Amazighe](https://www.ircam.ma)
   - [IRCAM conjugator](https://tal2.ircam.ma/conjugueur/conjugappl.php)
