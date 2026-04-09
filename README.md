@@ -88,17 +88,6 @@ Y. Ait Ouguengay. (2026). Amazigh Verb Conjugation Dataset. GitHub. https://gith
 
 Or see the [CITATION.cff](CITATION.cff) file for other citation formats.
 
-### Contributions
-
-Contributions are welcome! Please adhere to the following guidelines:
-
-1. **Fork** the repository.
-2. Create a branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add new feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Open a pull request.
-
 ### License
 
 This dataset is licensed under the Creative Commons Attribution 4.0 Internnational License. See the [LICENSE.md](LICENSE.md) file for details.
