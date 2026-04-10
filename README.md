@@ -1,7 +1,7 @@
 ## Amazigh Verbs Conjugation Dataset ##
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19495572.svg)](https://doi.org/10.5281/zenodo.19495572)
 
-This README.md file provides essential information about the **Moroccan tamazight verbs Conjugation Dataset**, which contains conjugations for 3000+ Amazigh verbs. The dataset is structured in JSON format, allowing easy access and manipulation for linguistic research and development purposes.
+The **Moroccan tamazight verbs Conjugation Dataset** contains conjugations for 3000+ Amazigh verbs. The dataset is structured in JSON format, allowing easy access and manipulation for linguistic research and development purposes.
 
 ### Dataset Overview
 
