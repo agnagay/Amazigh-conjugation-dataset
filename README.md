@@ -41,9 +41,6 @@ Each verb entry in the dataset is structured as follows:
 #### Attributes
 
 - **lemma**: The base form of the verb in Amazigh script.
-- **ar**: The Arabic translation of the verb.
-- **fr**: The French translation, represented as a key-value pair to accommodate multiple translations.
-- **en**: The English translation, represented similarly to French.
 - **ConjugationForm**: Indicates the form of the conjugation (e.g., default, first, second).
 
 ### Conjugation Forms
